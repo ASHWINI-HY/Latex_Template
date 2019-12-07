@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.24)  4 DEC 2019 13:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.24)  7 DEC 2019 10:03
 entering extended mode
 **./report.tex
 (report.tex
@@ -1015,17 +1015,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout2 = `acknowledge.aux'.
 
  (acknowledge.tex
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
@@ -1143,7 +1143,7 @@ Here is how much of TeX's memory you used:
  16468 multiletter control sequences out of 15000+200000
  11540 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,12n,45p,585b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,12n,45p,586b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/vivek/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/vivek/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/vivek/AppData/Local/Programs/MiKTeX 2.9/f
@@ -1154,7 +1154,7 @@ al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vivek
 Users/vivek/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 ti12.pfb><C:/Users/vivek/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmtt12.pfb>
-Output written on report.pdf (17 pages, 444616 bytes).
+Output written on report.pdf (17 pages, 445066 bytes).
 PDF statistics:
  240 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)
