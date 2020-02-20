@@ -30,6 +30,11 @@
 \usepackage{pdfpages}
 \usepackage{xcolor}
 
+\renewcommand{\afterchapternum}{\par\bigskip}
+\setlength{\beforechapskip}{-2\baselineskip}
+%To reduce%the Chapter vertical height.
+
+
 %document starts here
 \begin{document}
 \newlength{\toptafiddle} 
@@ -77,13 +82,14 @@
 \pagestyle{myheadings}
 \makeheadrule{myheadings}{\textwidth}{0.4pt}
 \makefootrule{myheadings}{\textwidth}{0.4pt}{\footruleskip}
-\makeoddhead{myheadings}{\small{Project Title}}{}{\small{Chapter \thechapter}}
+\makeoddhead{myheadings}{\small{Project Title}}{}{\small{2019-20}}
 \makeoddfoot{myheadings}{\small{Dept Of ECE, RNSIT, Bengaluru}}{}{\small{\thepage}}
 
 \pagenumbering{arabic}
 
 
 \index{key}
+
 \include{introduction}
 \include{chapter2}
 \include{chapter3}
