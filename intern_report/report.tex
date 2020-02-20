@@ -29,16 +29,20 @@
 \usepackage{listings}
 \usepackage{pdfpages}
 \usepackage{xcolor}
+\usepackage{afterpage}
 
 \renewcommand{\afterchapternum}{\par\bigskip}
 \setlength{\beforechapskip}{-2\baselineskip}
 %To reduce%the Chapter vertical height.
 
 
+
+
 %document starts here
 \begin{document}
 \newlength{\toptafiddle} 
 \newlength{\bottafiddle}
+\include{frontpage}
 \include{title}%include titlepage,i.e, title.tex file
 %Page layout according to VTU specification
 %Right=1.25in,left=1in, Top & Bottom 0.75in in each
